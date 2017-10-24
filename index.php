@@ -1,1 +1,8 @@
-<?php echo "welcome";?>
+<?php 
+
+echo "welcome";
+
+echo "Good";
+
+
+?>
